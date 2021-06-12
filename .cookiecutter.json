@@ -1,0 +1,15 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "java-kotlin-lib-test-GqP8x",
+    "component_id": "java-kotlin-lib-test-GqP8x",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "name": "java-kotlin-lib-test-GqP8x",
+            "owner": "fp-mt-test-org"
+        }
+    },
+    "java_package_name": "javakotlinlibtestGqP8x",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-GqP8x"
+}
